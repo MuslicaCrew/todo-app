@@ -1,0 +1,17 @@
+body{
+  color: #ebdbb2;
+  background: #282828;
+}
+
+label, textarea{
+  display: block;
+}
+
+textarea{
+  background: #282828;
+  color: #ebdbb2;
+  resize: none;
+  border: #ebdbb2 .1rem solid;
+  outline: none;
+  font-size: 1.4rem;
+}
